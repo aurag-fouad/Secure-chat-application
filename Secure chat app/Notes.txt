@@ -1,0 +1,7 @@
+Server:
+    1- Implements Runnable ?
+
+ClientThread:
+    1- Extends Thread
+    2- les Clients sont stocké dans la listes ClientListe
+
